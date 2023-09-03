@@ -1,0 +1,31 @@
+section{
+    background-color: black;
+    color:white;
+    align-items: center;
+    padding: 250px;
+    padding-top:10px;
+    height: 350px;
+   
+}
+section>img{
+    
+   height:300px;
+   width:300px;
+   object-fit: cover;
+   margin-left: 150px;
+}
+section>h1{
+    /* margin-right: 250px; */
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.unorder{
+    cursor: pointer;
+    color:blue;
+    text-decoration: underline;
+    
+}
+section>div{
+    font-size: 14px;
+}
